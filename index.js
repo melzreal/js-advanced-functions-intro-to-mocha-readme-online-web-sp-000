@@ -1,3 +1,19 @@
+function theTruth() {
+  return true;
+}
+
+function sayHey() {
+}
+
+function sayHeyFriend(name){
+}
+
 function favoriteIceCream(flavor) {
-  debugger;
+}
+
+function shouting() {
+
+}
+function roundDown() {
+
 }
